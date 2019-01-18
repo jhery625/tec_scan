@@ -6,47 +6,47 @@ pkg install figlet
 echo -e "\e[1;36m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
 figlet TEC DROID 
 echo -e "\e[1;36m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[0m"
-sleep 3
+clear
 #instalacion
 echo -e "\e[1;32m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;31m"
 figlet UPDATE
 echo -e "\e[1;32m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[0m"
-sleep 3
+clear
 apt update && apt upgrade -y
 #instalacion de complementos
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
 figlet WGET
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&%%%%%%\e[0m"
-sleep 3
+clear
 pkg install wget
 echo -e "\e[1;31mINSTALACION EXITOSA...!!\e[0m"
-sleep 3
+clear
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
 figlet NMAP
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&%%%%%%\e[0m"
-sleep 3
+clear
 pkg install nmap
 echo -e "\e[1;31mINSTALACION EXITOSA...!!\e[0m"
-sleep 3
+clear
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
 figlet CURL
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&%%%%%%\e[0m"
-sleep 3
+clear
 pkg install curl -y
 echo -e "\e[1;31mINSTALACION EXITOSA...!!\e[0m"
-sleep 3
+clear
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
 figlet GIT
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&%%%%%%\e[0m"
-sleep 3
+clear
 pkg install git
 echo -e "\e[1;31mINSTALACION EXITOSA...!!\e[0m"
-sleep 3
+clear
 #descarga del script
 git clone https://github.com/jhery625/tec_scan.git
-sleep 3
+clear
 echo -e "\e[1;31mDESCARGA EXITOSA...!!\e[0m"
-sleep 3
+clear
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%&%%\e[1;31m"
 figlet FIN...
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%\e[0m"
@@ -59,4 +59,3 @@ echo -e "\033[1;32m[ 3 ]\033[1;32m (DIGITE)\033[1;34m ==> ls"
 echo -e "\033[1;32m[ 4 ]\033[1;35m (DIGITE)\033[1;33m ==> chmod 777 tec_scan.sh"
 echo -e "\033[1;32m[ 5 ]\033[1;36m (DIGITE)\033[1;33m ==> ls"
 echo -e "\033[1;32m[ 6 ]\033[1;36m (DIGITE)\033[1;33m ==> bash tec_scan.sh"
-done
