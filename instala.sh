@@ -1,10 +1,9 @@
 #!bin/bash
 #tec droid - jheremixx
-clear
-#
-pkg install figlet 
+clear                                                                                                 #
+pkg install figlet
 echo -e "\e[1;36m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
-figlet TEC DROID 
+figlet TEC DROID
 echo -e "\e[1;36m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[0m";
 clear
 #instalacion
@@ -34,8 +33,7 @@ echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&%%%%%%\e[0m";
 clear
 pkg install curl -y
 echo -e "\e[1;31mINSTALACION EXITOSA...!!\e[0m";
-clear
-echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
+clear                                                                                                 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\e[1;32m"
 figlet GIT
 echo -e "\e[1;34m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%&%%%%%%\e[0m";
 clear
@@ -58,4 +56,4 @@ echo -e "\033[1;32m[ 2 ]\033[1;31m (DIGITE)\033[1;36m ==> cd tec_scan"
 echo -e "\033[1;32m[ 3 ]\033[1;32m (DIGITE)\033[1;34m ==> ls"
 echo -e "\033[1;32m[ 4 ]\033[1;35m (DIGITE)\033[1;33m ==> chmod 777 tec_scan.sh"
 echo -e "\033[1;32m[ 5 ]\033[1;36m (DIGITE)\033[1;33m ==> ls"
-echo -e "\033[1;32m[ 6 ]\033[1;36m (DIGITE)\033[1;33m ==> bash tec_scan.sh"
+echo -e "\033[1;32m[ 6 ]\033[1;36m (DIGITE)\033[1;33m ==> bash tec_scan.sh
