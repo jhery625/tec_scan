@@ -1,0 +1,28 @@
+OPCIONES:
+
+[1] Extrae url de sitios web como http y https
+[2] Muestra estatus de sitios web
+[3] Un bloc para agregar sitios web 
+[4] Genera payload funcionales de sitios web / host
+[5] Muestra los puertos que esta abiertos en servicios web / IP/ proxy
+ - Poner una coma después de cada puerto, ejemplo: 22,53,443,80,8080 
+[6] Ver proxy o informacion de un sitio web o IP
+[7] Manual de como usar el script host-extractor-v2.sh
+[8] Un mensaje de parte de mio hacia el público 
+[9] Salir del menu 0 y 0 salir del menu.
+
+CREDITOS AL DESARROLLADOR Y A TODOS LOS QUE TRABAJaRON EN ESTO
+
+Coder: @RealStrategy,TEC DROID"
+
+YOUTUBE : https://www.youtube.com/TECDROIDPE "
+TELEGRAM: https://t.me/tecdroidp "
+TELEGRAM: https://t.me/jhere "
+WHATSAPP: +51926504432 "
+CANAL DE RS YOUTUBE : https://www.youtube.com/RealHackRWAM "
+
+EL CONOCIMIENTO ES LIBRE
+
+Nunca dejes de aprender... :)
+
+PRESIONA UNA ENTER PARA CONTINUAR...
